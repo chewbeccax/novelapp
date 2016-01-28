@@ -1,4 +1,4 @@
-Lab 1
-=====
+Lab 2
+====
 
-This lab introduces you to the serving of static content using node.js and Express. We'll also push and pull from GitHub, and publish to Heroku.
+Lab 2 introduces you to static HTML, CSS, and Bootstrap.
