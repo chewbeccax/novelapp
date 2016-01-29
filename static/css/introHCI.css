@@ -40,7 +40,7 @@ p {
 }
 
 .project {
-    width: 70%;
+    width: 700px;
     margin: 0 auto; 
 }
 
@@ -51,4 +51,20 @@ p {
 
 #project1 {
      /*font-variant: small-caps;*/
+}
+
+.intro {
+    padding-top: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.quote {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.intro p {
+    padding-top: 10px;
+    padding-left: 10px;
 }
