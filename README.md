@@ -1,4 +1,4 @@
-Lab 2
+Novelly
 ====
 
-Lab 2 introduces you to static HTML, CSS, and Bootstrap.
+Creating a community for collaborative storytelling.
